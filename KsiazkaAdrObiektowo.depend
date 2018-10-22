@@ -1,0 +1,145 @@
+# depslib dependency file v1.0
+1522180617 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Adresat.h"
+	"Uzytkownicy.h"
+	"plikUzytkownicy.h"
+	"PlikAdresaci.h"
+	"KsiazkaAdresowa.h"
+
+1521803899 c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\uzytkownik.h
+	<iostream>
+	<vector>
+
+1521803899 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\uzytkownik.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"Uzytkownik.h"
+
+1521803899 c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\uzytkownicy.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"PlikUzytkownicy.h"
+	"Uzytkownik.h"
+
+1522137192 c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\plikuzytkownicy.h
+	<iostream>
+	<vector>
+	<fstream>
+	<cstdlib>
+	<windows.h>
+	"Uzytkownik.h"
+
+1522135802 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\plikuzytkownicy.cpp
+	<iostream>
+	<vector>
+	"Uzytkownik.h"
+	"PlikUzytkownicy.h"
+	"Adresat.h"
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
+1522180677 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\uzytkownicy.cpp
+	<iostream>
+	<vector>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"PlikUzytkownicy.h"
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
+1522150108 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\adresat.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"plikUzytkownicy.h"
+	"Adresat.h"
+
+1522136743 c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\adresat.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"plikUzytkownicy.h"
+
+1522179876 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\plikadresaci.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"plikUzytkownicy.h"
+	"Adresat.h"
+	"PlikAdresaci.h"
+
+1522179551 c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\plikadresaci.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"plikUzytkownicy.h"
+	"Adresat.h"
+
+1522179876 source:c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\ksiazkaadresowa.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"plikUzytkownicy.h"
+	"Adresat.h"
+	"PlikAdresaci.h"
+	"KsiazkaAdresowa.h"
+
+1522178483 c:\users\justyna\desktop\przyszly programista\prog. obiektowe\ksiazkaadrobiektowo\ksiazkaadresowa.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+	"Uzytkownik.h"
+	"Uzytkownicy.h"
+	"PlikUzytkownicy.h"
+	"Adresat.h"
+	"PlikAdresaci.h"
+
